@@ -1,0 +1,1448 @@
+﻿Log file open, 03/27/21 20:34:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ArcanoidV2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198055
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 3600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:373][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.27-17.34.07:373][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.27-17.34.07:374][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.27-17.34.07:374][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.27-17.34.07:374][  0]LogHAL: Display: Platform has ~ 16 GB [17126625280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.27-17.34.07:374][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.27-17.34.07:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.27-17.34.07:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Scalability.ini]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.27-17.34.07:376][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Config/Windows/Engine.ini]
+[2021.03.27-17.34.07:376][  0]LogInit: Computer: WIN-V66VGLABGBG
+[2021.03.27-17.34.07:376][  0]LogInit: User: User
+[2021.03.27-17.34.07:376][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.27-17.34.07:376][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.27-17.34.07:376][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.27-17.34.07:376][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.27-17.34.07:376][  0]LogMemory: Process Physical Memory: 137.99 MB used, 138.00 MB peak
+[2021.03.27-17.34.07:376][  0]LogMemory: Process Virtual Memory: 111.09 MB used, 111.09 MB peak
+[2021.03.27-17.34.07:376][  0]LogMemory: Physical Memory: 8334.60 MB used,  7998.63 MB free, 16333.22 MB total
+[2021.03.27-17.34.07:376][  0]LogMemory: Virtual Memory: 134197328.00 MB used,  20397.87 MB free, 134217728.00 MB total
+[2021.03.27-17.34.07:381][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.27-17.34.07:420][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.27-17.34.07:421][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.27-17.34.07:421][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.03.27-17.34.07:423][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.03.27-17.34.07:424][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.27-17.34.07:428][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.27-17.34.07:459][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.27-17.34.07:459][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.27-17.34.07:589][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.27-17.34.07:589][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.27-17.34.07:589][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.27-17.34.07:702][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.03.27-17.34.07:702][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.27-17.34.07:703][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.27-17.34.07:703][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.27-17.34.07:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.27-17.34.07:709][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.27-17.34.07:709][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.27-17.34.07:709][  0]LogWindows: EnumDisplayDevices:
+[2021.03.27-17.34.07:709][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.03.27-17.34.07:709][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.27-17.34.07:711][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.27-17.34.07:711][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.27-17.34.07:711][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.27-17.34.07:711][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.03.27-17.34.07:711][  0]LogD3D11RHI:   Driver Version: 461.92 (internal:27.21.14.6192, unified:461.92)
+[2021.03.27-17.34.07:711][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2021.03.27-17.34.07:711][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.03.27-17.34.07:757][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.27-17.34.07:757][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.27-17.34.07:757][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.27-17.34.07:773][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.27-17.34.07:774][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.27-17.34.08:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.27-17.34.08:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.27-17.34.08:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.27-17.34.08:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.27-17.34.08:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.27-17.34.08:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.27-17.34.08:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.27-17.34.08:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.27-17.34.08:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.27-17.34.08:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.27-17.34.08:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.27-17.34.08:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.27-17.34.08:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.27-17.34.08:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.27-17.34.08:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.27-17.34.08:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.27-17.34.08:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.27-17.34.08:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.27-17.34.08:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.27-17.34.08:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.27-17.34.08:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.27-17.34.08:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.27-17.34.08:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.27-17.34.08:186][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.27-17.34.08:193][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.27-17.34.08:241][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.27-17.34.08:241][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../GitLabRep/Arkanoid/ArcanoidV2/Intermediate/Shaders/WorkingDirectory/13748/).
+[2021.03.27-17.34.08:242][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/43936EE2477BE8C6D73BF19917951975/'.
+[2021.03.27-17.34.08:242][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.27-17.34.08:242][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.27-17.34.08:834][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitLabRep/Arkanoid/ArcanoidV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitLabRep/Arkanoid/ArcanoidV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.27-17.34.08:876][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.27-17.34.08:887][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-17.34.08:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.27-17.34.08:888][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.27-17.34.08:892][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.03.27-17.34.08:892][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1201.46MBs, RandomWriteSpeed=257.82MBs. Assigned SpeedClass 'Local'
+[2021.03.27-17.34.08:893][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.27-17.34.08:893][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.27-17.34.08:893][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.27-17.34.08:932][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.27-17.34.08:932][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.27-17.34.08:951][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.03.27-17.34.09:142][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.27-17.34.09:142][  0]LogInit: Active device profile: [000001ACC41EEC00][000001ACC3400240 49] Windows
+[2021.03.27-17.34.09:142][  0]LogInit: Profiles: [000001ACC41EEC00][000001ACC3400240 49] Windows, [000001ACC41F9600][000001ACC34143C0 49] WindowsNoEditor, [000001ACC41ED500][000001ACC3418540 49] WindowsServer, [000001ACC41FA700][000001ACC341C6C0 49] WindowsClient, [000001ACC41EEF00][000001ACC3420840 49] IOS, [000001ACC41F9400][000001ACC34249C0 49] iPadAir, [000001ACC41ED100][000001ACC3440B40 49] iPadAir2, [000001ACC41B4200][000001ACC3448E00 49] IPadPro, [000001ACC41B4300][000001ACC3444E40 49] iPadAir3, [000001ACC41EF100][000001ACC344CFC0 49] iPadAir4, [000001ACC41B6700][000001ACC3451140 49] iPadMini2, [000001ACC41ED900][000001ACC34552C0 49] iPadMini3, [000001ACC41B4800][000001ACC3479440 49] iPadMini4, [000001ACC41EE500][000001ACC3405580 49] iPadMini5, [000001ACC41A7A00][000001ACC34817C0 49] iPhone6, [000001ACC41A7B00][000001ACC347D800 49] iPodTouch6, [000001ACC41B6900][000001ACC348DA80 49] iPhone7, [000001ACC41B5100][000001ACC3485AC0 49] iPodTouch7, [000001ACC41A5900][000001ACC3491C40 49] iPhone5S, [000001ACC41B6200][000001ACC34C0100 49] iPhone6Plus, [000001ACC41A7800][000001ACC34C4280 49] iPhone6S, [000001ACC41B6A00][000001ACC34C8400 49] iPhone6SPlus, [000001ACC41A5400][000001ACC34CC580 49] iPhone7Plus, [000001ACC41B5300][000001ACC34D0700 49] iPhoneSE, [000001ACC41A4C00][000001ACC34D4880 49] iPhone8, [000001ACC41B4B00][000001ACC34D8A00 49] iPhone8Plus, [000001ACC41A5F00][000001ACC34DCB80 49] iPhoneX, [000001ACC41B6100][000001ACC44F0D00 49] iPhoneXS, [000001ACC41A5300][000001ACC44F4E80 49] iPhoneXSMax, [000001ACC41B4E00][000001ACC44F9000 49] iPhoneXR, [000001ACC41A6700][000001ACC44FD180 49] iPhone11, [000001ACC41B4700][000001ACC4501300 49] iPhone11Pro, [000001ACC41A6000][000001ACC4505480 49] iPhone11ProMax, [000001ACC41B5200][000001ACC4509600 49] iPhoneSE2, [000001ACC41A5500][000001ACC3489740 49] iPhone12Mini, [000001ACC41B6D00][000001ACC450D880 49] iPhone12, [000001ACC41A4400][000001ACC45119C0 49] iPhone12Pro, [000001ACC41B5600][000001ACC4519B40 49] iPhone12ProMax, [000001ACC41A7300][000001ACC451DCC0 49] iPadPro105, [000001ACC41B7E00][000001ACC4520180 49] iPadPro129, [000001ACC41A4900][000001ACC4524300 49] iPadPro97, [000001ACC41B4500][000001ACC4528480 49] iPadPro2_129, [000001ACC41A7900][000001ACC452C600 49] iPad5, [000001ACC41B7D00][000001ACC4530780 49] iPad6, [000001ACC41A5700][000001ACC4534900 49] iPad7, [000001ACC41B5D00][000001ACC4538A80 49] iPad8, [000001ACC41A4200][000001ACC453CC00 49] iPadPro11, [000001ACC41B7900][000001ACC4540D80 49] iPadPro2_11, [000001ACC41A7C00][000001ACC4544F00 49] iPadPro3_129, [000001ACC41B7100][000001ACC4549080 49] iPadPro4_129, [000001ACC41A7E00][000001ACC454D200 49] AppleTV, [000001ACC41B6000][000001ACC4551380 49] AppleTV4K, [000001ACC41A6200][000001ACC4555500 49] TVOS, [000001ACC41B6B00][000001ACC4559680 49] Mac, [000001ACC41FB800][000001ACC45157C0 49] MacClient, [000001ACC41A4E00][000001ACC455D900 49] MacNoEditor, [000001ACC41F9700][000001ACC4561A40 49] MacServer, [000001ACC41A5200][000001ACC4565B80 49] Linux, [000001ACC42D8C00][000001ACC456DD00 49] LinuxNoEditor, [000001ACC41A7500][000001ACC45701C0 49] LinuxAArch64NoEditor, [000001ACC42D8E00][000001ACC4574340 49] LinuxClient, [000001ACC41A6D00][000001ACC45784C0 49] LinuxAArch64Client, [000001ACC41B5E00][000001ACC457C640 49] LinuxServer, [000001ACC41A5C00][000001ACC45807C0 49] LinuxAArch64Server, [000001ACC41B7400][000001ACC4584940 49] Android, [000001ACC41A7200][000001ACC4588AC0 49] Android_Low, [000001ACC41B7200][000001ACC458CC40 49] Android_Mid, [000001ACC41A7000][000001ACC4590DC0 49] Android_High, [000001ACC41B4C00][000001ACC4594F40 49] Android_Default, [000001ACC41A6C00][000001ACC45990C0 49] Android_Adreno4xx, [000001ACC41B7A00][000001ACC459D240 49] Android_Adreno5xx_Low, [000001ACC41A5600][000001ACC45A13C0 49] Android_Adreno5xx, [000001ACC41B7000][000001ACC45A5540 49] Android_Adreno6xx, [000001ACC41A4F00][000001ACC45A96C0 49] Android_Adreno6xx_Vulkan, [000001ACC41B5B00][000001ACC4569800 49] Android_Mali_T6xx, [000001ACC41A4700][000001ACC45AD940 49] Android_Mali_T7xx, [000001ACC41B5700][000001ACC45B1A80 49] Android_Mali_T8xx, [000001ACC41A5000][000001ACC45B5BC0 49] Android_Mali_G71, [000001ACC41B6C00][000001ACC45BDD40 49] Android_Mali_G72, [000001ACC41A5100][000001ACC45C0200 49] Android_Mali_G72_Vulkan, [000001ACC41B5A00][000001ACC45C4380 49] Android_Mali_G76, [000001ACC41A6300][000001ACC45C8500 49] Android_Mali_G76_Vulkan, [000001ACC41B5F00][000001ACC45CC680 49] Android_Mali_G77, [000001ACC41A6800][000001ACC45D0800 49] Android_Mali_G77_Vulkan, [000001ACC41B6500][000001ACC45D4980 49] Android_Vulkan_SM5, [000001ACC41A7600][000001ACC45D8B00 49] Android_PowerVR_G6xxx, [000001ACC41B6F00][000001ACC45DCC80 49] Android_PowerVR_GT7xxx, [000001ACC41A6500][000001ACC45E0E00 49] Android_PowerVR_GE8xxx, [000001ACC41B4F00][000001ACC45E4F80 49] Android_PowerVR_GM9xxx, [000001ACC41A4600][000001ACC45E9100 49] Android_PowerVR_GM9xxx_Vulkan, [000001ACC41B5800][000001ACC45ED280 49] Android_TegraK1, [000001ACC41A4500][000001ACC45F1400 49] Android_Unknown_Vulkan, [000001ACC41B7700][000001ACC45F5580 49] Lumin, [000001ACC41A5E00][000001ACC45F9700 49] Lumin_Desktop, [000001ACC41EF900][000001ACC45FD880 49] HoloLens, 
+[2021.03.27-17.34.09:228][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.27-17.34.09:228][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.27-17.34.09:228][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.27-17.34.09:228][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.27-17.34.09:228][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.27-17.34.09:254][  0]LogNetVersion: ArcanoidV2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3516070356)
+[2021.03.27-17.34.09:609][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.27-17.34.09:630][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.021035 seconds
+[2021.03.27-17.34.09:635][  0]LogUObjectArray: 16727 objects as part of root set at end of initial load.
+[2021.03.27-17.34.09:635][  0]LogUObjectAllocator: 4183232 out of 0 bytes used by permanent object pool.
+[2021.03.27-17.34.09:635][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.27-17.34.09:928][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.27-17.34.09:934][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.27-17.34.10:038][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.10:038][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.10:041][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.10:043][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.10:049][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.10:059][  0]LogUProjectInfo: Found projects:
+[2021.03.27-17.34.10:111][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.27-17.34.10:128][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.34.10:128][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.34.10:263][  0]LogCollectionManager: Loaded 0 collections in 0.000565 seconds
+[2021.03.27-17.34.10:282][  0]LogFileCache: Scanning file cache for directory 'E:/GitLabRep/Arkanoid/ArcanoidV2/Saved/Collections/' took 0.00s
+[2021.03.27-17.34.10:283][  0]LogFileCache: Scanning file cache for directory 'E:/GitLabRep/Arkanoid/ArcanoidV2/Content/Developers/User/Collections/' took 0.00s
+[2021.03.27-17.34.10:283][  0]LogFileCache: Scanning file cache for directory 'E:/GitLabRep/Arkanoid/ArcanoidV2/Content/Collections/' took 0.00s
+[2021.03.27-17.34.10:283][  0]LogOcInput: OculusInput pre-init called
+[2021.03.27-17.34.10:456][  0]LogEngine: Initializing Engine...
+[2021.03.27-17.34.10:456][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.27-17.34.10:457][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.27-17.34.10:539][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.27-17.34.10:545][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.27-17.34.10:553][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.27-17.34.10:557][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.27-17.34.10:557][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-17.34.10:557][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-17.34.10:557][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-17.34.10:557][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-17.34.10:572][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-17.34.10:572][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-17.34.10:603][  0]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.03.27-17.34.10:607][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-17.34.10:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-17.34.10:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-17.34.10:609][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-17.34.10:609][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.27-17.34.10:609][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.27-17.34.10:610][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.27-17.34.10:610][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.27-17.34.10:610][  0]LogInit: FAudioDevice initialized.
+[2021.03.27-17.34.10:610][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.27-17.34.10:610][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.27-17.34.10:744][  0]LogDerivedDataCache: Saved boot cache 0.13s 81MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.27-17.34.10:745][  0]LogInit: Texture streaming: Enabled
+[2021.03.27-17.34.10:755][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.27-17.34.10:759][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.27-17.34.10:760][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.27-17.34.10:765][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.27-17.34.10:787][  0]LogInit: Transaction tracking system initialized
+[2021.03.27-17.34.10:806][  0]BlueprintLog: New page: Editor Load
+[2021.03.27-17.34.10:863][  0]LocalizationService: Localization service is disabled
+[2021.03.27-17.34.10:882][  0]TimingProfiler: Initialize
+[2021.03.27-17.34.10:883][  0]TimingProfiler: OnSessionChanged
+[2021.03.27-17.34.10:883][  0]LoadingProfiler: Initialize
+[2021.03.27-17.34.10:883][  0]LoadingProfiler: OnSessionChanged
+[2021.03.27-17.34.10:883][  0]NetworkingProfiler: Initialize
+[2021.03.27-17.34.10:883][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.27-17.34.10:883][  0]MemoryProfiler: Initialize
+[2021.03.27-17.34.10:883][  0]MemoryProfiler: OnSessionChanged
+[2021.03.27-17.34.11:256][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.27-17.34.11:256][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.27-17.34.11:388][  0]LogFileCache: Scanning file cache for directory 'E:/GitLabRep/Arkanoid/ArcanoidV2/Content/' took 0.00s
+[2021.03.27-17.34.11:388][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.27-17.34.11:392][  0]SourceControl: Source control is disabled
+[2021.03.27-17.34.11:392][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.354
+[2021.03.27-17.34.11:392][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.27-17.34.11:393][  0]LightingResults: New page: Lighting Build
+[2021.03.27-17.34.11:393][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-17.34.11:394][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-17.34.11:394][  0]MapCheck: New page: Map Check
+[2021.03.27-17.34.11:394][  0]LightingResults: New page: Lighting Build
+[2021.03.27-17.34.11:399][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.27-17.34.11:450][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.03.27-17.34.11:452][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.03.27-17.34.11:453][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.03.27-17.34.11:457][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.27-17.34.11:462][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.27-17.34.11:462][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.27-17.34.11:462][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2021.03.27-17.34.11:462][  0]LogFileHelpers: Loading map 'Template_Default' took 0.069
+[2021.03.27-17.34.11:463][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.425
+[2021.03.27-17.34.11:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.11:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.11:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.11:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.11:604][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3593 classes and 852 folders.
+[2021.03.27-17.34.11:606][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.27-17.34.11:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.27-17.34.11:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.27-17.34.11:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.27-17.34.11:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.27-17.34.11:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.27-17.34.11:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.27-17.34.11:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.27-17.34.11:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.27-17.34.11:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.27-17.34.11:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.27-17.34.11:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.27-17.34.11:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.27-17.34.11:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.27-17.34.11:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.27-17.34.11:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.27-17.34.11:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.27-17.34.11:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.27-17.34.11:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.27-17.34.11:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.27-17.34.11:615][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.27-17.34.11:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.27-17.34.11:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.27-17.34.11:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.27-17.34.11:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.27-17.34.11:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.27-17.34.11:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.27-17.34.11:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.27-17.34.11:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.27-17.34.11:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.27-17.34.11:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.27-17.34.11:650][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-17.34.11:653][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.27-17.34.11:708][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.11:738][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.27-17.34.11:739][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.27-17.34.11:743][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.27-17.34.11:851][  0]LogRenderer: Reallocating scene render targets to support 1096x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.27-17.34.11:929][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-17.34.11:929][  0]LogLoad: (Engine Initialization) Total time: 5.89 seconds
+[2021.03.27-17.34.11:929][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.27-17.34.11:929][  0]LogInit: First time updating LLM stats...
+[2021.03.27-17.34.11:964][  0]LogAssetRegistry: Asset discovery search completed in 3.0136 seconds
+[2021.03.27-17.34.11:965][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.27-17.34.11:981][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.27-17.34.12:625][  2]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.27-17.34.29:480][ 69]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.31:696][329]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.32:815][460]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.33:044][460]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.27-17.34.37:273][936]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.37:284][936]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.27-17.34.38:609][ 71]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.47:377][111]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.27-17.34.47:380][111]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.27-17.34.50:009][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.27-17.34.50:012][422]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.50:021][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/MainLevel1.MainLevel1
+[2021.03.27-17.34.50:021][422]Cmd: MAP LOAD FILE="../../../../../GitLabRep/Arkanoid/ArcanoidV2/Content/Scene/MainLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.27-17.34.50:021][422]LightingResults: New page: Lighting Build
+[2021.03.27-17.34.50:021][422]LoadErrors: New page: Loading map: MainLevel1.umap
+[2021.03.27-17.34.50:060][422]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-17.34.50:060][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-17.34.50:060][422]MapCheck: New page: Map Check
+[2021.03.27-17.34.50:060][422]LightingResults: New page: Lighting Build
+[2021.03.27-17.34.50:062][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.27-17.34.50:064][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.27-17.34.50:064][422]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel1'.
+[2021.03.27-17.34.50:114][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.27-17.34.50:114][422]LogAIModule: Creating AISystem for world MainLevel1
+[2021.03.27-17.34.50:119][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.27-17.34.50:121][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.27-17.34.50:121][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,052ms to complete.
+[2021.03.27-17.34.50:121][422]LogFileHelpers: Loading map 'MainLevel1' took 0.101
+[2021.03.27-17.34.51:185][547]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-17.34.51:190][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-17.34.51:190][547]PIE: New page: PIE session: MainLevel1 (27 мар. 2021 г., 23:34:51)
+[2021.03.27-17.34.51:191][547]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.27-17.34.51:192][547]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.27-17.34.51:192][547]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_MainLevel1
+[2021.03.27-17.34.51:194][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002808s)
+[2021.03.27-17.34.51:195][547]LogAIModule: Creating AISystem for world MainLevel1
+[2021.03.27-17.34.51:195][547]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2021.03.27-17.34.51:195][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/MainLevel1.MainLevel1 to /Game/Scene/UEDPIE_0_MainLevel1.MainLevel1 (0.003724s)
+[2021.03.27-17.34.51:198][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.27-17.34.51:198][547]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-17.34.51:199][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-17.34.51:199][547]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-17.34.51:199][547]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-17.34.51:207][547]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-17.34.51:207][547]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-17.34.51:220][547]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.03.27-17.34.51:220][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-17.34.51:220][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-17.34.51:220][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-17.34.51:220][547]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-17.34.51:220][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.27-17.34.51:221][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.27-17.34.51:232][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.27-17.34.51:232][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.27-17.34.51:232][547]LogInit: FAudioDevice initialized.
+[2021.03.27-17.34.51:232][547]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel1'.
+[2021.03.27-17.34.51:240][547]LogLoad: Game class is 'GameModeBase'
+[2021.03.27-17.34.51:241][547]LogWorld: Bringing World /Game/Scene/UEDPIE_0_MainLevel1.MainLevel1 up for play (max tick rate 0) at 2021.03.27-20.34.51
+[2021.03.27-17.34.51:241][547]LogWorld: Bringing up level for play took: 0.000752
+[2021.03.27-17.34.51:241][547]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.27-17.34.51:243][547]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.27-17.34.51:244][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.27-17.34.51:244][547]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.27-17.34.51:244][547]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.27-17.34.51:244][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.03.27-17.34.51:244][547]PIE: Server logged in
+[2021.03.27-17.34.51:245][547]PIE: Play in editor total start time 0,058 seconds.
+[2021.03.27-17.34.53:033][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.53:033][753]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_MainLevel1
+[2021.03.27-17.34.53:033][753]LogWorld: UWorld::CleanupWorld for MainLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-17.34.53:033][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-17.34.53:039][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-17.34.53:040][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-17.34.53:042][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-17.34.53:042][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.27-17.34.53:043][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.27-17.34.53:057][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.27-17.34.53:108][759]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.27-17.34.58:593][396]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.34.59:000][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.35.00:303][590]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.35.00:471][609]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.35.01:139][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.27-17.35.12:550][688]LogMainFrame: Project does not require temp target
+[2021.03.27-17.35.12:552][688]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.03.27-17.35.12:563][688]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.35.12:609][689]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.03.27-17.35.12:935][724]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=E:/GitLabRep/Arkanoid/ArcanoidV2/ArcanoidV2.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=E:/GitLabRep/Arkanoid/ArcanoidV2/ArcanoidV2.uproject -cook -stage -archive -archivedirectory=E:/UneralEngineExe/ArcanoidExe/WindowsNoEditor -package -ue4exe="E:\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.03.27-17.35.13:468][788]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject
+[2021.03.27-17.35.13:686][814]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.03.27-17.35.13:695][815]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject
+[2021.03.27-17.35.13:695][815]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is E:\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.03.27-20.35.13.txt
+[2021.03.27-17.35.13:695][815]UATHelper: Packaging (Windows (64-bit)): Running: E:\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="E:\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.03.27-20.35.13.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.03.27-17.35.14:280][885]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: ArcanoidV2
+[2021.03.27-17.35.14:921][962]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17126625280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.27-17.35.15:179][993]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.27-17.35.15:195][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.27-17.35.15:196][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.27-17.35.15:196][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.27-17.35.15:196][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.27-17.35.15:196][995]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.27-17.35.15:213][997]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.27-17.35.15:213][997]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.27-17.35.15:222][998]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.27-17.35.15:230][999]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.27-17.35.15:238][  0]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.27-17.35.15:247][  1]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.27-17.35.15:256][  2]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.27-17.35.15:263][  3]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.27-17.35.15:272][  4]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.27-17.35.15:297][  7]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.27-17.35.15:297][  7]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.27-17.35.15:305][  8]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.27-17.35.15:314][  9]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.27-17.35.15:321][ 10]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.27-17.35.15:322][ 10]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.27-17.35.15:338][ 12]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.27-17.35.15:338][ 12]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.27-17.35.15:347][ 13]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.27-17.35.15:355][ 14]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.27-17.35.15:363][ 15]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.27-17.35.15:372][ 16]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.27-17.35.15:372][ 16]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.03.27-17.35.15:380][ 17]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.27-17.35.15:625][ 46]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.27-17.35.16:075][100]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.27-17.35.16:125][106]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.27-17.35.16:133][107]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-17.35.16:142][108]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1046.95MBs, RandomWriteSpeed=244.35MBs. Assigned SpeedClass 'Local'
+[2021.03.27-17.35.17:190][116]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.35.17:190][116]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.35.17:523][117]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.27-17.35.17:523][117]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.03.27-17.35.17:523][117]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.03.27-17.35.17:856][118]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.03.27-17.35.17:856][118]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.03.27-17.35.17:856][118]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.27-17.35.17:856][118]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.019 seconds for platforms WindowsNoEditor
+[2021.03.27-17.35.19:190][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 92 Total 92
+[2021.03.27-17.35.19:190][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=160, VirtualMemory=380MiB
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 252 Packages Remain 0 Total 252
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=255, VirtualMemory=469MiB
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 248, size is 104.35kb
+[2021.03.27-17.35.19:523][123]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 3654, Total Shaders: 4024, Unique Shadermaps: 274
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 8.44mb, Total Shader Size: 9.09mb
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 0.524392s total time 2.091777
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 502 MiB Peak Used physical 562 MiB
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.019s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.146s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 0.524s (120)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (606)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.117s (252)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.404s (157)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.001s (11)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.168s (251)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.168s (241)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.223s (252)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.219s (252)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.001s (252)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (248)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (252)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.016s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.028s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.007s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.008s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.001094s to verify the EDL loading graph.
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000081
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=58
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=37
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=173
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.426608
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=74
+[2021.03.27-17.35.19:857][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=157
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=149
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=252
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.206790
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.019361
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.007172
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000057
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000583
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.000737
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000110
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.042743
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.079287
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.008588
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=83.270235
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=5.460796
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.361189
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.097431
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.506807
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000202
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=0.585259
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.117264
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.223036
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.168641
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000048
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000020
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000024
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000007
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       596
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       596
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.427852
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.572148
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.03.27-17.35.19:858][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.13                   0.13             0          5.81
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.12                   0.00             0         33.55
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.56
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.01                   0.01             0          1.06
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.01                   0.01             0          0.00
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.00                   0.00             0          0.49
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          1.70
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.02
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         39.17
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  2.11 seconds
+[2021.03.27-17.35.19:859][124]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.03.27-17.35.20:192][125]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Took 7,5450951s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.03.27-17.35.21:525][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\GitLabRep\Arkanoid\ArcanoidV2\Config\DefaultEditor.ini
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.03.27-17.35.21:526][129]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)): Output from: E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor\ArcanoidV2\Content\Paks\ArcanoidV2-WindowsNoEditor.pak -create="C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\PakList_ArcanoidV2-WindowsNoEditor.txt" -cryptokeys=E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\Cooked\WindowsNoEditor\ArcanoidV2\Metadata\Crypto.json -order=E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\UnrealPak-ArcanoidV2-WindowsNoEditor-2021.03.27-20.35.21.txt"
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\PakList_ArcanoidV2-WindowsNoEditor.txt
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1618 entries to add to pak file.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1618 files in 0.01s.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor\ArcanoidV2\Content\Paks\ArcanoidV2-WindowsNoEditor.pak.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1618 files, 110547605 bytes total, time 0.49s.
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 19530 bytes
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 42058 bytes
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 52251 bytes
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 0.530391 seconds
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.03.27-17.35.22:859][133]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): Archiving to E:/UneralEngineExe/ArcanoidExe/WindowsNoEditor
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.03.27-17.35.23:198][134]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.27-17.44.55:361][581]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.44.56:477][713]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.44.56:694][713]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.27-17.48.49:356][180]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.48.50:562][180]LogSlate: Window 'Message' being destroyed
+[2021.03.27-17.48.50:565][180]Message dialog closed, result: Ok, title: Message, text: FilenameToLongPackageName failed to convert '../../../../../Unreal Projects/ArcanoidV2/Content/Scene/MainLevel1.umap'. Attempt result was '../../../../../Unreal Projects/ArcanoidV2/Content/Scene/MainLevel1', but the path contains illegal characters '.'
+[2021.03.27-17.48.51:713][293]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.49.06:676][759]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.49.13:796][759]LogSlate: Window 'Message' being destroyed
+[2021.03.27-17.49.13:799][759]Message dialog closed, result: Ok, title: Message, text: FilenameToLongPackageName failed to convert '../../../../../Unreal Projects/ArcanoidV2/Content/Scene/MainLevel1_BuiltData.uasset'. Attempt result was '../../../../../Unreal Projects/ArcanoidV2/Content/Scene/MainLevel1_BuiltData', but the path contains illegal characters '.'
+[2021.03.27-17.51.04:621][317]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.51.05:270][365]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.51.05:835][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.51.05:930][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.51.06:434][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.27-17.51.11:856][501]LogMainFrame: Project does not require temp target
+[2021.03.27-17.51.11:858][501]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.03.27-17.51.11:859][501]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.27-17.51.11:917][502]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.03.27-17.51.11:998][507]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=E:/GitLabRep/Arkanoid/ArcanoidV2/ArcanoidV2.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=E:/GitLabRep/Arkanoid/ArcanoidV2/ArcanoidV2.uproject -cook -stage -archive -archivedirectory=E:/UneralEngineExe/ArcanoidExe -package -ue4exe="E:\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -SkipCookingEditorContent -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.03.27-17.51.12:434][553]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject
+[2021.03.27-17.51.12:618][575]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.03.27-17.51.12:618][575]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject
+[2021.03.27-17.51.12:627][576]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is E:\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.03.27-20.51.12.txt
+[2021.03.27-17.51.12:627][576]UATHelper: Packaging (Windows (64-bit)): Running: E:\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -skipeditorcontent -abslog="E:\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.03.27-20.51.12.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.03.27-17.51.12:972][617]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: ArcanoidV2
+[2021.03.27-17.51.13:542][683]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.27-17.51.13:636][685]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17126625280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.27-17.51.13:895][716]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.27-17.51.13:921][719]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.27-17.51.13:937][721]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.27-17.51.13:937][721]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.27-17.51.13:946][722]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.27-17.51.13:954][723]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.27-17.51.13:962][724]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.27-17.51.13:970][725]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.27-17.51.13:978][726]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.27-17.51.13:987][727]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.27-17.51.13:987][727]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.27-17.51.14:012][730]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.27-17.51.14:012][730]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.27-17.51.14:020][731]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.27-17.51.14:029][732]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.27-17.51.14:029][732]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.27-17.51.14:037][733]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.27-17.51.14:053][735]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.27-17.51.14:053][735]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.27-17.51.14:062][736]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.27-17.51.14:070][737]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.27-17.51.14:079][738]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.27-17.51.14:088][739]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.27-17.51.14:088][739]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.03.27-17.51.14:095][740]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.27-17.51.14:345][770]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.27-17.51.14:804][825]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.27-17.51.14:853][831]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.27-17.51.14:863][832]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-17.51.14:871][833]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=865.07MBs, RandomWriteSpeed=238.31MBs. Assigned SpeedClass 'Local'
+[2021.03.27-17.51.15:895][956]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.51.15:895][956]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.27-17.51.16:270][  1]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.27-17.51.16:270][  1]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.03.27-17.51.16:270][  1]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.03.27-17.51.16:454][ 23]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.03.27-17.51.16:470][ 25]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for Windows Game /Script/UnrealEd.ProjectPackagingSettings StagingDirectory 0, value (Path="E:/UneralEngineExe/ArcanoidExe") != (Path="E/UneralEngineExe/ArcanoidExe/WindowsNoEditor") invalidating cook
+[2021.03.27-17.51.16:470][ 25]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Windows.Game:/Script/UnrealEd.ProjectPackagingSettings
+[2021.03.27-17.51.16:470][ 25]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.27-17.51.16:496][ 28]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.041 seconds for platforms WindowsNoEditor
+[2021.03.27-17.51.17:853][191]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 92 Total 92
+[2021.03.27-17.51.17:853][191]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=160, VirtualMemory=381MiB
+[2021.03.27-17.51.18:113][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 141 Packages Remain 90 Total 231
+[2021.03.27-17.51.18:388][255]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 252 Packages Remain 0 Total 252
+[2021.03.27-17.51.18:388][255]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=255, VirtualMemory=464MiB
+[2021.03.27-17.51.18:388][255]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.03.27-17.51.18:405][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.03.27-17.51.18:405][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.03.27-17.51.18:405][257]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.03.27-17.51.18:405][257]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.03.27-17.51.18:405][257]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.03.27-17.51.18:437][261]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.03.27-17.51.18:445][262]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 198, size is 81.83kb
+[2021.03.27-17.51.18:445][262]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.03.27-17.51.18:454][263]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.03.27-17.51.18:454][263]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.03.27-17.51.18:454][263]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.27-17.51.18:454][263]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 3616, Total Shaders: 3964, Unique Shadermaps: 268
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 8.35mb, Total Shader Size: 8.95mb
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 0.538750s total time 2.190913
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 502 MiB Peak Used physical 551 MiB
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.041s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.158s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 0.539s (72)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (510)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.135s (252)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.401s (109)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.005s (16)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.169s (251)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.169s (236)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.218s (252)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.214s (202)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.001s (202)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (198)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (252)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.020s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.031s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.006s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.009s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.001265s to verify the EDL loading graph.
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.03.27-17.51.18:464][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000002
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000082
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=58
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=37
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=173
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.457797
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=74
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=157
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=149
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=202
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.199023
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.018613
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.007252
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000070
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000545
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.000801
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000108
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.039474
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.076661
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.009010
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=78.242824
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.03.27-17.51.18:465][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.03.27-17.51.18:466][264]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.51.18:478][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.03.27-17.51.18:478][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=5.657484
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.460173
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.195977
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.582389
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000011
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=0.608340
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.134702
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.217750
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.173914
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000090
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000014
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000027
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000005
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       596
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       596
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.427852
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.572148
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.13                   0.13             0          5.81
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.13                   0.00             0         33.55
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.56
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.01                   0.01             0          1.06
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.00                   0.00             0          0.49
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          1.70
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.00                   0.00             0          0.00
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.02
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         39.17
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   
+[2021.03.27-17.51.18:479][265]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  2.21 seconds
+[2021.03.27-17.51.18:901][316]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.03.27-17.51.19:126][343]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.03.27-17.51.20:535][512]UATHelper: Packaging (Windows (64-bit)): Took 7,9114413s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.03.27-17.51.20:544][513]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.03.27-17.51.20:544][513]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.03.27-17.51.20:585][518]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.03.27-17.51.20:610][521]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.03.27-17.51.20:621][522]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\GitLabRep\Arkanoid\ArcanoidV2\Config\DefaultEditor.ini
+[2021.03.27-17.51.20:676][529]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.27-17.51.20:676][529]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.03.27-17.51.20:753][538]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)): Output from: E:\GitLabRep\Arkanoid\ArcanoidV2\ArcanoidV2.uproject E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor\ArcanoidV2\Content\Paks\ArcanoidV2-WindowsNoEditor.pak -create="C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\PakList_ArcanoidV2-WindowsNoEditor.txt" -cryptokeys=E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\Cooked\WindowsNoEditor\ArcanoidV2\Metadata\Crypto.json -order=E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\UnrealPak-ArcanoidV2-WindowsNoEditor-2021.03.27-20.51.20.txt"
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\User\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.26\PakList_ArcanoidV2-WindowsNoEditor.txt
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1507 entries to add to pak file.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file E:\GitLabRep\Arkanoid\ArcanoidV2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1507 files in 0.01s.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor\ArcanoidV2\Content\Paks\ArcanoidV2-WindowsNoEditor.pak.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1507 files, 50552831 bytes total, time 1.03s.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 28902 bytes
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 40726 bytes
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 48172 bytes
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 41.22% of original size. Compressed Size 38189542 bytes, Original Size 92641488 bytes.
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 1.071485 seconds
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.03.27-17.51.22:676][766]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: E:\GitLabRep\Arkanoid\ArcanoidV2\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.27-17.51.22:842][786]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.03.27-17.51.22:851][787]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.03.27-17.51.22:851][787]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.03.27-17.51.22:851][787]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.03.27-17.51.22:851][787]UATHelper: Packaging (Windows (64-bit)): Archiving to E:/UneralEngineExe/ArcanoidExe
+[2021.03.27-17.51.23:001][805]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.03.27-17.51.23:001][805]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.03.27-17.51.23:001][805]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.27-17.52.16:755][398]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
